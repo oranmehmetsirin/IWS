@@ -1,0 +1,66 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Raleway:ital,wght@0,100..900;1,100..900&display=swap')
+
+.pic-slider{
+    height: 750px !important;
+}
+body{
+    padding-top: 50px;
+    font-family: "Raleway", sans-serif;
+}
+
+.logo{
+    font-size: 37.5px;
+    font-weight: bolder;
+    color: #daddad;
+    text-shadow: 0 2.5px 5px #b7bb7b;
+    transform: rotateY(45deg);
+}
+.about {
+    background-color: #f2f2f2;
+}
+.hr{
+    border-top: 5px solid #113355;
+    max-width: 250px;
+    margin: 25px auto;
+}
+.i-gray{
+    color: #113355;
+    position: relative;
+    top: -62.5px;
+    font-size: 50px;
+    border: 10px solid #f2f2f2;
+    background-color: #f2f2f2;
+}
+.i-white{
+    color: #113355;
+    position: relative;
+    top: -62.5px;
+    font-size: 50px;
+    border: 10px solid #ffffff;
+    background-color: #ffffff;
+}
+
+.crew-card:hover{
+    opacity: .75;
+}
+
+.gallery{
+    background-attachment: #f2f2f2;
+}
+
+.gallery-pic{
+    height: 351.5625px !important;
+    width: 468.75px !important;
+    border-radius: 6.25% !important;
+}
+
+.gallery-pic:hover{
+    opacity: .75;
+}
+
+.btn-gray{
+    border-radius: 37.5% !important;
+    margin-top: 5px !important;
+    font-weight: bold !important;
+}
